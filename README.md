@@ -17,7 +17,7 @@ This project showcases a fully responsive eCommerce product page design created 
 # Installation
 To view or modify this project locally, follow these steps:
 1. **Clone the repository**:
-    git clone https://github.com/yourusername/ecommerce-product-page.git
+    git clone https://github.com/shubhdp/eCommerce-Product-Page-Design.git
 2. **Navigate to the project directory**:
     cd ecommerce-product-page
 3. **Open `index.html` in your browser** to view the product page.
