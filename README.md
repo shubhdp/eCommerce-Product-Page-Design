@@ -1,6 +1,6 @@
 # eCommerce-Product-Page-Design
 # Overview
-This project showcases a fully responsive eCommerce product page design created using HTML, CSS, and JavaScript. The design includes a product image gallery, detailed product description, and options to choose product variations such as color and size before making a purchase. The aim of this project is to provide a clean, user-friendly interface for customers to view and select products on an online store.
+This project showcases a fully responsive eCommerce product page design created using **HTML, CSS, and JavaScript**. The design includes a product image gallery, detailed product description, and options to choose product variations such as color and size before making a purchase. The aim of this project is to provide a clean, user-friendly interface for customers to view and select products on an online store.
 
 # Features
 **Responsive Layout**: The page is designed to be fully responsive, ensuring a seamless user experience across various devices, including desktops, tablets, and smartphones.
